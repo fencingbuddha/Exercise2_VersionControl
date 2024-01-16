@@ -1,1 +1,1 @@
-Here is some text that I added locally... again because I forgot to take a screenshot of the git status command after adding the changes made to test.txt
+Here is some text that was added locally
